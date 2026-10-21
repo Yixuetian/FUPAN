@@ -1,0 +1,483 @@
+{
+  "date": "20261020",
+  "date_display": "2026-10-20 星期二",
+  "update_time": "2026-10-22 01:12:52",
+  "total": 54,
+  "max_height": 4,
+  "stocks": [
+    {
+      "code": "003029",
+      "name": "吉大正元",
+      "height": 4,
+      "first_seal_time": "09:25",
+      "industry": "软件开发",
+      "yizi": true
+    },
+    {
+      "code": "600148",
+      "name": "长春一东",
+      "height": 3,
+      "first_seal_time": "09:25",
+      "industry": "汽车零部",
+      "yizi": true
+    },
+    {
+      "code": "600178",
+      "name": "东安动力",
+      "height": 3,
+      "first_seal_time": "09:25",
+      "industry": "汽车零部",
+      "yizi": true
+    },
+    {
+      "code": "603278",
+      "name": "大业股份",
+      "height": 3,
+      "first_seal_time": "09:25",
+      "industry": "通用设备",
+      "yizi": true
+    },
+    {
+      "code": "603278",
+      "name": "大业股份",
+      "height": 3,
+      "first_seal_time": "09:25",
+      "industry": "通用设备",
+      "yizi": true
+    },
+    {
+      "code": "600148",
+      "name": "长春一东",
+      "height": 3,
+      "first_seal_time": "09:30",
+      "industry": "汽车零部",
+      "yizi": false
+    },
+    {
+      "code": "002724",
+      "name": "海洋王",
+      "height": 3,
+      "first_seal_time": "09:30",
+      "industry": "照明设备",
+      "yizi": false
+    },
+    {
+      "code": "600860",
+      "name": "京城股份",
+      "height": 3,
+      "first_seal_time": "09:30",
+      "industry": "通用设备",
+      "yizi": false
+    },
+    {
+      "code": "001323",
+      "name": "慕思股份",
+      "height": 2,
+      "first_seal_time": "09:30",
+      "industry": "家居用品",
+      "yizi": false
+    },
+    {
+      "code": "605488",
+      "name": "福莱新材",
+      "height": 2,
+      "first_seal_time": "09:30",
+      "industry": "塑料",
+      "yizi": false
+    },
+    {
+      "code": "600267",
+      "name": "海正药业",
+      "height": 2,
+      "first_seal_time": "09:30",
+      "industry": "化学制药",
+      "yizi": false
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "height": 2,
+      "first_seal_time": "09:34",
+      "industry": "通用设备",
+      "yizi": false
+    },
+    {
+      "code": "603626",
+      "name": "科森科技",
+      "height": 2,
+      "first_seal_time": "09:44",
+      "industry": "消费电子",
+      "yizi": false
+    },
+    {
+      "code": "301313",
+      "name": "凡拓数创",
+      "height": 2,
+      "first_seal_time": "09:51",
+      "industry": "数字媒体",
+      "yizi": false
+    },
+    {
+      "code": "603119",
+      "name": "浙江荣泰",
+      "height": 2,
+      "first_seal_time": "10:03",
+      "industry": "汽车零部",
+      "yizi": false
+    },
+    {
+      "code": "600293",
+      "name": "三峡新材",
+      "height": 1,
+      "first_seal_time": "09:25",
+      "industry": "玻璃玻纤",
+      "yizi": true
+    },
+    {
+      "code": "002479",
+      "name": "富春环保",
+      "height": 1,
+      "first_seal_time": "09:30",
+      "industry": "电力",
+      "yizi": false
+    },
+    {
+      "code": "002181",
+      "name": "粤 传 媒",
+      "height": 1,
+      "first_seal_time": "09:30",
+      "industry": "出版",
+      "yizi": false
+    },
+    {
+      "code": "002076",
+      "name": "星光股份",
+      "height": 1,
+      "first_seal_time": "09:31",
+      "industry": "照明设备",
+      "yizi": false
+    },
+    {
+      "code": "002242",
+      "name": "九阳股份",
+      "height": 1,
+      "first_seal_time": "09:32",
+      "industry": "小家电",
+      "yizi": false
+    },
+    {
+      "code": "002088",
+      "name": "鲁阳节能",
+      "height": 1,
+      "first_seal_time": "09:34",
+      "industry": "装修建材",
+      "yizi": false
+    },
+    {
+      "code": "603386",
+      "name": "骏亚科技",
+      "height": 1,
+      "first_seal_time": "09:36",
+      "industry": "元件",
+      "yizi": false
+    },
+    {
+      "code": "002347",
+      "name": "泰尔股份",
+      "height": 1,
+      "first_seal_time": "09:37",
+      "industry": "通用设备",
+      "yizi": false
+    },
+    {
+      "code": "920641",
+      "name": "格利尔",
+      "height": 1,
+      "first_seal_time": "09:39",
+      "industry": "照明设备",
+      "yizi": false
+    },
+    {
+      "code": "002313",
+      "name": "日海智能",
+      "height": 1,
+      "first_seal_time": "09:40",
+      "industry": "通信设备",
+      "yizi": false
+    },
+    {
+      "code": "920096",
+      "name": "嘉晨智能",
+      "height": 1,
+      "first_seal_time": "09:43",
+      "industry": "自动化设",
+      "yizi": false
+    },
+    {
+      "code": "001239",
+      "name": "永达股份",
+      "height": 1,
+      "first_seal_time": "10:01",
+      "industry": "工程机械",
+      "yizi": false
+    },
+    {
+      "code": "001239",
+      "name": "永达股份",
+      "height": 1,
+      "first_seal_time": "10:01",
+      "industry": "工程机械",
+      "yizi": false
+    },
+    {
+      "code": "603236",
+      "name": "移远通信",
+      "height": 1,
+      "first_seal_time": "10:04",
+      "industry": "通信设备",
+      "yizi": false
+    },
+    {
+      "code": "300466",
+      "name": "赛摩智能",
+      "height": 1,
+      "first_seal_time": "10:06",
+      "industry": "通用设备",
+      "yizi": false
+    },
+    {
+      "code": "603341",
+      "name": "龙旗科技",
+      "height": 1,
+      "first_seal_time": "10:09",
+      "industry": "消费电子",
+      "yizi": false
+    },
+    {
+      "code": "300115",
+      "name": "长盈精密",
+      "height": 1,
+      "first_seal_time": "10:18",
+      "industry": "消费电子",
+      "yizi": false
+    },
+    {
+      "code": "002881",
+      "name": "美格智能",
+      "height": 1,
+      "first_seal_time": "10:18",
+      "industry": "通信设备",
+      "yizi": false
+    },
+    {
+      "code": "603407",
+      "name": "长裕集团",
+      "height": 1,
+      "first_seal_time": "10:20",
+      "industry": "化学原料",
+      "yizi": false
+    },
+    {
+      "code": "002403",
+      "name": "爱仕达",
+      "height": 1,
+      "first_seal_time": "10:23",
+      "industry": "小家电",
+      "yizi": false
+    },
+    {
+      "code": "001388",
+      "name": "信通电子",
+      "height": 1,
+      "first_seal_time": "10:29",
+      "industry": "电网设备",
+      "yizi": false
+    },
+    {
+      "code": "605389",
+      "name": "长龄液压",
+      "height": 1,
+      "first_seal_time": "10:31",
+      "industry": "工程机械",
+      "yizi": false
+    },
+    {
+      "code": "603068",
+      "name": "博通集成",
+      "height": 1,
+      "first_seal_time": "10:33",
+      "industry": "半导体",
+      "yizi": false
+    },
+    {
+      "code": "001283",
+      "name": "豪鹏科技",
+      "height": 1,
+      "first_seal_time": "10:34",
+      "industry": "电池",
+      "yizi": false
+    },
+    {
+      "code": "300244",
+      "name": "迪安诊断",
+      "height": 1,
+      "first_seal_time": "10:39",
+      "industry": "医疗服务",
+      "yizi": false
+    },
+    {
+      "code": "688608",
+      "name": "恒玄科技",
+      "height": 1,
+      "first_seal_time": "10:47",
+      "industry": "半导体",
+      "yizi": false
+    },
+    {
+      "code": "603893",
+      "name": "瑞芯微",
+      "height": 1,
+      "first_seal_time": "10:49",
+      "industry": "半导体",
+      "yizi": false
+    },
+    {
+      "code": "605177",
+      "name": "东亚药业",
+      "height": 1,
+      "first_seal_time": "10:50",
+      "industry": "化学制药",
+      "yizi": false
+    },
+    {
+      "code": "001288",
+      "name": "运机集团",
+      "height": 1,
+      "first_seal_time": "11:06",
+      "industry": "专用设备",
+      "yizi": false
+    },
+    {
+      "code": "603696",
+      "name": "安记食品",
+      "height": 1,
+      "first_seal_time": "11:21",
+      "industry": "调味发酵",
+      "yizi": false
+    },
+    {
+      "code": "603657",
+      "name": "春光科技",
+      "height": 1,
+      "first_seal_time": "11:26",
+      "industry": "家电零部",
+      "yizi": false
+    },
+    {
+      "code": "603683",
+      "name": "晶华新材",
+      "height": 1,
+      "first_seal_time": "11:27",
+      "industry": "化学制品",
+      "yizi": false
+    },
+    {
+      "code": "603400",
+      "name": "华之杰",
+      "height": 1,
+      "first_seal_time": "13:00",
+      "industry": "通用设备",
+      "yizi": false
+    },
+    {
+      "code": "002940",
+      "name": "昂利康",
+      "height": 1,
+      "first_seal_time": "13:06",
+      "industry": "化学制药",
+      "yizi": false
+    },
+    {
+      "code": "002596",
+      "name": "海南瑞泽",
+      "height": 1,
+      "first_seal_time": "13:25",
+      "industry": "水泥",
+      "yizi": false
+    },
+    {
+      "code": "603366",
+      "name": "日出东方",
+      "height": 1,
+      "first_seal_time": "13:26",
+      "industry": "厨卫电器",
+      "yizi": false
+    },
+    {
+      "code": "002696",
+      "name": "百洋股份",
+      "height": 1,
+      "first_seal_time": "13:40",
+      "industry": "饲料",
+      "yizi": false
+    },
+    {
+      "code": "603636",
+      "name": "南威软件",
+      "height": 1,
+      "first_seal_time": "14:13",
+      "industry": "IT服务Ⅱ",
+      "yizi": false
+    },
+    {
+      "code": "688004",
+      "name": "博汇科技",
+      "height": 1,
+      "first_seal_time": "14:17",
+      "industry": "IT服务Ⅱ",
+      "yizi": false
+    }
+  ],
+  "sector_stats": [
+    {
+      "industry": "通用设备",
+      "count": 7
+    },
+    {
+      "industry": "汽车零部",
+      "count": 4
+    },
+    {
+      "industry": "化学制药",
+      "count": 3
+    },
+    {
+      "industry": "消费电子",
+      "count": 3
+    },
+    {
+      "industry": "照明设备",
+      "count": 3
+    },
+    {
+      "industry": "工程机械",
+      "count": 3
+    },
+    {
+      "industry": "半导体",
+      "count": 3
+    },
+    {
+      "industry": "通信设备",
+      "count": 3
+    },
+    {
+      "industry": "IT服务Ⅱ",
+      "count": 2
+    },
+    {
+      "industry": "小家电",
+      "count": 2
+    }
+  ]
+}
